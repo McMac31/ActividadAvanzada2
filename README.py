@@ -36,4 +36,5 @@ print(Estaciones)
 #Actividad avanzada
 nombres = ["Arturo","Julio","Dani"]
 for i in nombres:
-    Estudiantes= input(f"Ha venido {nombres} a clase? y/n")
+    Estudiantes= input(f"Ha venido {i} a clase? y/n")
+Readme cambio 
