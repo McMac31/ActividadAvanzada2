@@ -37,4 +37,7 @@ print(Estaciones)
 nombres = ["Arturo","Julio","Dani"]
 for i in nombres:
     Estudiantes= input(f"Ha venido {i} a clase? y/n")
-Readme cambio 
+Readme cambio
+segundo cambio
+name = input("¿Cual es tu nombre?")
+print(f"Tu nombre es {name}")
